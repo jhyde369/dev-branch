@@ -1,0 +1,110 @@
+True
+True
+2016-01-21 22:49:34,683 test - Begin: querying science segments
+2016-01-21 22:49:34,683 start: 1135093150, end: 1135179550
+2016-01-21 22:49:34,684 (1135093150, 1135179550)
+2016-01-21 22:49:34,684 1135136350
+2016-01-21 22:49:35,802 Segs: [[1135093104.0, 1135096408.0], [1135100657.0, 1135103160.0], [1135117233.0, 1135161704.0], [1135172506.0, 1135173083.0], [1135173304.0, 1135179824.0]]
+2016-01-21 22:49:35,802 ('/gds-l1/dmt/triggers', 'L-KW_TRIGGERS', 1135093150, 86400, 32)
+2016-01-21 22:49:35,869   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093120-32.trg
+2016-01-21 22:49:35,940   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093152-32.trg
+2016-01-21 22:49:36,007   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093184-32.trg
+2016-01-21 22:49:36,086   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093216-32.trg
+2016-01-21 22:49:36,139   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093248-32.trg
+2016-01-21 22:49:36,186   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093280-32.trg
+2016-01-21 22:49:36,254   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093312-32.trg
+2016-01-21 22:49:36,332   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093344-32.trg
+2016-01-21 22:49:36,393   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093376-32.trg
+2016-01-21 22:49:36,463   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093408-32.trg
+2016-01-21 22:49:36,503   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093440-32.trg
+2016-01-21 22:49:36,564   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093472-32.trg
+2016-01-21 22:49:36,636   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093504-32.trg
+2016-01-21 22:49:36,708   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093536-32.trg
+2016-01-21 22:49:36,768   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093568-32.trg
+2016-01-21 22:49:36,808   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093600-32.trg
+2016-01-21 22:49:36,847   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093632-32.trg
+2016-01-21 22:49:36,896   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093664-32.trg
+2016-01-21 22:49:37,001   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093696-32.trg
+2016-01-21 22:49:37,044   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093728-32.trg
+2016-01-21 22:49:37,098   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093760-32.trg
+2016-01-21 22:49:37,172   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093792-32.trg
+2016-01-21 22:49:37,227   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093824-32.trg
+2016-01-21 22:49:37,326   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093856-32.trg
+2016-01-21 22:49:37,368   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093888-32.trg
+2016-01-21 22:49:37,410   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093920-32.trg
+2016-01-21 22:49:37,503   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093952-32.trg
+2016-01-21 22:49:37,581   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135093984-32.trg
+2016-01-21 22:49:37,633   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094016-32.trg
+2016-01-21 22:49:37,680   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094048-32.trg
+2016-01-21 22:49:37,723   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094080-32.trg
+2016-01-21 22:49:37,780   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094112-32.trg
+2016-01-21 22:49:37,858   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094144-32.trg
+2016-01-21 22:49:37,925   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094176-32.trg
+2016-01-21 22:49:37,968   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094208-32.trg
+2016-01-21 22:49:38,017   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094240-32.trg
+2016-01-21 22:49:38,095   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094272-32.trg
+2016-01-21 22:49:38,151   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094304-32.trg
+2016-01-21 22:49:38,248   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094336-32.trg
+2016-01-21 22:49:38,339   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094368-32.trg
+2016-01-21 22:49:38,401   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094400-32.trg
+2016-01-21 22:49:38,463   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094432-32.trg
+2016-01-21 22:49:38,533   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094464-32.trg
+2016-01-21 22:49:38,566   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094496-32.trg
+2016-01-21 22:49:38,609   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094528-32.trg
+2016-01-21 22:49:38,674   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094560-32.trg
+2016-01-21 22:49:38,749   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094592-32.trg
+2016-01-21 22:49:38,810   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094624-32.trg
+2016-01-21 22:49:38,893   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094656-32.trg
+2016-01-21 22:49:38,927   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094688-32.trg
+2016-01-21 22:49:39,035   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094720-32.trg
+2016-01-21 22:49:39,101   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094752-32.trg
+2016-01-21 22:49:39,186   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094784-32.trg
+2016-01-21 22:49:39,264   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094816-32.trg
+2016-01-21 22:49:39,312   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094848-32.trg
+2016-01-21 22:49:39,349   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094880-32.trg
+2016-01-21 22:49:39,390   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094912-32.trg
+2016-01-21 22:49:39,474   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094944-32.trg
+2016-01-21 22:49:39,541   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135094976-32.trg
+2016-01-21 22:49:39,581   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095008-32.trg
+2016-01-21 22:49:39,648   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095040-32.trg
+2016-01-21 22:49:39,707   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095072-32.trg
+2016-01-21 22:49:39,762   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095104-32.trg
+2016-01-21 22:49:39,829   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095136-32.trg
+2016-01-21 22:49:39,879   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095168-32.trg
+2016-01-21 22:49:39,929   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095200-32.trg
+2016-01-21 22:49:39,967   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095232-32.trg
+2016-01-21 22:49:40,005   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095264-32.trg
+2016-01-21 22:49:40,057   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095296-32.trg
+2016-01-21 22:49:40,158   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095328-32.trg
+2016-01-21 22:49:40,227   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095360-32.trg
+2016-01-21 22:49:40,276   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095392-32.trg
+2016-01-21 22:49:40,321   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095424-32.trg
+2016-01-21 22:49:40,385   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095456-32.trg
+2016-01-21 22:49:40,428   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095488-32.trg
+2016-01-21 22:49:40,481   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095520-32.trg
+2016-01-21 22:49:40,573   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095552-32.trg
+2016-01-21 22:49:40,637   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095584-32.trg
+2016-01-21 22:49:40,708   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095616-32.trg
+2016-01-21 22:49:40,748   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095648-32.trg
+2016-01-21 22:49:40,820   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095680-32.trg
+2016-01-21 22:49:40,976   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095712-32.trg
+2016-01-21 22:49:41,028   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095744-32.trg
+2016-01-21 22:49:41,280   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095776-32.trg
+2016-01-21 22:49:41,364   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095808-32.trg
+2016-01-21 22:49:41,442   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095840-32.trg
+2016-01-21 22:49:41,503   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095872-32.trg
+2016-01-21 22:49:41,572   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095904-32.trg
+2016-01-21 22:49:41,654   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095936-32.trg
+2016-01-21 22:49:41,694   loading KW triggers : /gds-l1/dmt/triggers/L-KW_TRIGGERS/L-KW_TRIGGERS-11350/L-KW_TRIGGERS-1135095968-32.trg
+2016-01-21 22:49:41,721 Traceback (most recent call last):
+2016-01-21 22:49:41,721 File "train_around_event.py", line 221, in <module>
+2016-01-21 22:49:41,723 trigger_dict = idq.retrieve_kwtrigs(GWgdsdir, GWkwbasename, gpsstart, gpsstop-gpsstart, GWkwstride, sleep=0, ntrials=1, logger=logger, segments=scisegs) ### go find GW kwtrgs
+2016-01-21 22:49:41,723 File "/home/jessica.hyde/lalsuites/opt/lib64/python2.6/site-packages/laldetchar/idq/idq.py", line 1555, in retrieve_kwtrigs
+2016-01-21 22:49:41,724 trigger_dict = retrieve_kwtrig(gdsdir, kwbasename, t_start, kwstride, sleep=sleep, ntrials=ntrials, logger=logger)
+2016-01-21 22:49:41,725 File "/home/jessica.hyde/lalsuites/opt/lib64/python2.6/site-packages/laldetchar/idq/idq.py", line 1547, in retrieve_kwtrig
+2016-01-21 22:49:41,726 return event.loadkwm(kwfilename)
+2016-01-21 22:49:41,726 File "/home/jessica.hyde/lalsuites/opt/lib64/python2.6/site-packages/laldetchar/idq/event.py", line 488, in loadkwm
+2016-01-21 22:49:41,727 if channel in trigs_dict.channels():
+2016-01-21 22:49:41,727 File "/home/jessica.hyde/lalsuites/opt/lib64/python2.6/site-packages/laldetchar/idq/event.py", line 377, in channels
+2016-01-21 22:49:41,728 return self.keys()
+2016-01-21 22:49:41,728 KeyboardInterrupt
